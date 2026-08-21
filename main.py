@@ -4,4 +4,4 @@ app = FastAPI()
 
 @app.get("/")
 def read_root():
-    return {"message": "Hello Python and AWS1"}
+    return {"message": "Hello Python and AWS12"}
